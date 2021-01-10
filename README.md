@@ -1,3 +1,11 @@
+# Microsoft Container EXCEPT GitHub
+
+This is a private fork of [Microsoft Container](https://github.com/Kouassi-Goli/contain-microsoft) which excludes GitHub and its domains from the denylist. GitHub [declared to have removed use of non-essential cookies](https://github.blog/2020-12-17-no-cookie-for-you/), and Firefox containers have some navigation issues regarding containers, which makes browsing containerized sites inconvenient to some extent.
+
+The following lines are from the original README.md.
+
+----
+
 # Microsoft Container
 
 **Prevent Microsoft from tracking your visits to other websites**
