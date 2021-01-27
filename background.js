@@ -10,7 +10,7 @@ const MICROSOFT_DOMAINS = ["microsoft.com", "microsoft.org", "microsoft.net", "m
 "microsoftproductionstudios.org", "azure.com", "windowsazure.com", "bing.com", "bing.net", "bingtoolbar.com", "outlook.com",
 "skype.com", "hotmail.com", "live.com", "sharepoint.com", "bingtoolbar.com", "internetexplorer.com",  "onedrive.com",
 "office.com","office365.com", "xbox.com", "visualstudio.com","microsoftvisualstudio.com",  "microsoftonline.com", 
-"Surface.com", "Zone.com", "rare.com", "Sites.com", "msdn.com"];
+"Surface.com", "Zone.com", "rare.com", "Sites.com", "msdn.com", "microsoftstream.com"];
 
 const MAC_ADDON_ID = "@testpilot-containers";
 
