@@ -9,7 +9,7 @@
   },
   "applications": {
     "gecko": {
-      "id": "@contain-microsoft",
+      "id": "@contain-microsoft-except-github",
       "strict_min_version": "57.0"
     }
   },
